@@ -5,6 +5,7 @@
             $(".full-container .stats .muestras").html(data[today].muestras);
             $(".full-container .stats .infectados").html(data[today].infectados);
             $(".full-container .stats .muertos").html(data[today].muertos);
+            $(".full-container .stats .detenidos").html(data[today].detenidos);
 
             $(".title .today").text(today);
 
