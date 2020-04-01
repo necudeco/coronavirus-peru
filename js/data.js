@@ -280,6 +280,88 @@ const data = {
                 muestras: 0
             }
         }
+    },
+
+
+
+
+    '2020-04-01': {
+        muestras: 15587,
+        infectados: 1323,
+        hospitalizados: 198,
+        recuperados: 447,
+        muertos: 24,
+        detenidos: 36000,
+        pordepartamento:{
+            lima: {
+                infectados: 990,
+                muestras: 8000
+            },
+            lambayeque:{
+                infectados: 34,
+                muestras: 0
+            },
+            callao:{
+                infectados:37,
+                muestras: 0
+            },
+            arequipa:{
+                infectados:30,
+                muestras: 0,
+            },
+            huanuco:{
+                infectados: 6,
+                muestras: 0
+            },
+            piura:{
+                infectados: 26,
+                muestras: 0
+            },
+            ancash: {
+                infectados: 15,
+                muestras: 0
+            },
+            cuzco: {
+                infectados: 34,
+                muestras: 0,
+            },
+            ica:{
+                infectados:8, 
+                muestras: 0,
+            },
+            lalibertad: {
+                infectados: 32,
+                muestras: 0
+            },
+            loreto:{
+                infectados: 66,
+                muestras: 0
+            },
+            madrededios:{
+                infectados: 1,
+                muestras: 0
+            },
+            junin: {
+                infectados: 17,
+                muestras: 0
+            },
+            tumbes: {
+                infectados: 13, 
+                muestras: 0
+            },
+            sanmartin: {
+                infectados: 6, 
+                muestras: 0,
+            },
+            cajamarca: {
+                infectados: 2,
+                muestras: 0
+            },
+            pasco: {
+                infectados: 1,
+                muestras: 0
+            }
+        }
     }
 
 
